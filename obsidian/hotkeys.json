@@ -1,0 +1,371 @@
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": " "
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "workspace:export-pdf": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "app:go-back": [],
+  "app:go-forward": [],
+  "markdown:add-metadata-property": [],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-task-archiver:archive-tasks": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "A"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:close-window": [],
+  "workspace:copy-path": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "D"
+    }
+  ],
+  "file-recovery:open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:follow-link": [],
+  "workspace:goto-last-tab": [],
+  "workspace:previous-tab": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "workspace:next-tab": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-icon-folder:iconize:set-icon-for-file": [],
+  "editor:attach-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "="
+    }
+  ],
+  "editor:insert-horizontal-rule": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ],
+  "editor:insert-link": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "app:open-help": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:open-link-in-new-window": [],
+  "editor:open-link-in-new-split": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "Q"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "O"
+    }
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "editor:set-heading-1": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "editor:set-heading-2": [
+    {
+      "modifiers": [],
+      "key": "F2"
+    }
+  ],
+  "editor:set-heading-3": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "editor:set-heading-4": [
+    {
+      "modifiers": [],
+      "key": "F4"
+    }
+  ],
+  "editor:set-heading-5": [
+    {
+      "modifiers": [],
+      "key": "F5"
+    }
+  ],
+  "editor:set-heading-6": [
+    {
+      "modifiers": [],
+      "key": "F6"
+    }
+  ],
+  "workspace:show-trash": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "workspace:split-horizontal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "workspace:split-vertical": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "`"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Meta",
+        "Shift"
+      ],
+      "key": "`"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:toggle-comments": [],
+  "editor:toggle-checklist-status": [],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "zk-prefixer": [
+    {
+      "modifiers": [
+        "Meta"
+      ],
+      "key": "N"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "bookmarks:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Meta"
+      ],
+      "key": "B"
+    }
+  ],
+  "editor:toggle-bold": [],
+  "editor:toggle-italics": [],
+  "bookmarks:bookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
+  ],
+  "bookmarks:unbookmark-current-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod",
+        "Meta"
+      ],
+      "key": " "
+    }
+  ]
+}
