@@ -1,1 +1,1 @@
-Test git push -u origin master
+Test commit.sh
