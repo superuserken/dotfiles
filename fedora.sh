@@ -17,6 +17,8 @@ sudo fwupdmgr refresh --force && sudo fwupdmgr get-updates && sudo fwupdmgr upda
 sudo dnf install -y @virtualization
 sudo dnf install -y openssh-server && sudo systemctl enable --now sshd
 
+sudo dnf install tealdeer && tldr --update #tldr (command)
+
 #........development environment........
 dnf install git
 

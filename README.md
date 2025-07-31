@@ -4,7 +4,7 @@
 - ./bin-else = contains scripts made by others (intentionally private for legal purposes)
 	- ./bin-else/dir = sub-directory for similar scripts
 - ./configs = contains configuration files for various applications
-- ./readmes = contains README.md for various topics
+- ./docs = contains documentations i created or copied (with credits) for various topics
 - ./wallpapers = some wallpapers i like
 
 ## main scripts
