@@ -5,6 +5,7 @@
 	- ./bin-else/dir = sub-directory for similar scripts
 - ./configs = contains configuration files for various applications
 - ./readmes = contains README.md for various topics
+- ./wallpapers = some wallpapers i like
 
 ## main scripts
 - android.sh = adb commands for setting up android
