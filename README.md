@@ -1,6 +1,14 @@
+## directories
 - ./bin = contains scripts
+	- ./bin/dir = sub-directory for similar scripts
 - ./bin-else = contains scripts made by others (intentionally private for legal purposes)
-___
-- bin.sh = sets up ./bin
-- fedora.sh = sets up fedora
-- flatpak.sh = installs applications via flatpak
+	- ./bin-else/dir = sub-directory for similar scripts
+- ./configs = contains configuration files for various applications
+- ./readmes = contains README.md for various topics
+
+## main scripts
+- android.sh = adb commands for setting up android
+- bin.sh = sets up ./bin $PATH and create symbolic links of ./bin and ./bin-else scripts to $HOME/bin
+- fedora.sh = sets up fedora, installs core packages and applications i use
+- flatpak.sh = installs flatpak and applications i use
+- git.sh = setting up git and github

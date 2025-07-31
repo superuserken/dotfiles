@@ -4,7 +4,7 @@
 #Remove applications --if-pre-installed via system package manager (dnf)
 
 #........flatpak........
-dnf install -y flatpak
+sudo dnf install -y flatpak
 flatpak remote-delete fedora --force || true
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 sudo flatpak repair
